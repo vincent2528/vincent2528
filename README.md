@@ -17,7 +17,7 @@
   <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://dev.to/farhanirani">
+<a href="https://dev.to/vincent252">
   <img src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white">
 </a>
 <img src = "https://badges.pufler.dev/visits/vincent2528/vincent2528?style=for-the-badge">
@@ -57,8 +57,8 @@
 <hr>
 
 <p align="center">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=farhanirani&hide=C,pug&theme=algolia&langs_count=8&layout=compact">
-<img src = "https://github-readme-stats.vercel.app/api?username=farhanirani&theme=algolia&show_icons=true&hide=issues" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vincent2528&hide=C,pug&theme=algolia&langs_count=8&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api?username=vincent2528&theme=algolia&show_icons=true&hide=issues" />
 </p>
 
 <hr>
