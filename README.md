@@ -57,8 +57,7 @@
 
 <div align="center" display="flex" flex-direction="column">
   <a href="https://github.com/vincent2528/github-readme-stats">
-    <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vincent2528&hide=C,pug&theme=nightowl&langs_count=8&layout=compact">
-  </a>
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?vincent2528" frameborder="0"></iframe>  </a>
   <a href="https://github.com/vincent2528/convoychat">
     <img align="center" src = "https://github-readme-stats.vercel.app/api?username=vincent2528&theme=algolia&show_icons=true&hide=issues" />
   </a>
