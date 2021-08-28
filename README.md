@@ -55,13 +55,13 @@
 
 <hr>
 
-
+<div align="center" display="flex" flex-direction="column">
   <a href="https://github.com/vincent2528/github-readme-stats">
     <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vincent2528&hide=C,pug&theme=nightowl&langs_count=8&layout=compact">
   </a>
   <a href="https://github.com/vincent2528/convoychat">
     <img align="center" src = "https://github-readme-stats.vercel.app/api?username=vincent2528&theme=algolia&show_icons=true&hide=issues" />
   </a>
-
+</div>
 
 <hr>
