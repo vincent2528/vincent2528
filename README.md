@@ -1,9 +1,9 @@
 <hr>
 
-<h2 align = "center">Hi there 👋 I'm Kritik Gambhir</h2>
+<h2 align = "center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Kritik Gambhir</h2>
 
 <p align="center">
-🚀 An otaku with love for computers. 🌱👁️👁️<br>
+<img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="25px"> An otaku with love for computers.<img src="https://c.tenor.com/RwpAY9p76VsAAAAj/no-sleep.gif" width="30px"><br>
 <!-- 🔭 I’m currently working on <a href="https://diswire.herokuapp.com/reg">Diswire</a> <br> -->
 <!--🌱 I’m currently learning Redux <br> -->
 💬 Ask me about Devops<br>
@@ -55,11 +55,12 @@
 
 <hr>
 
-<div align="center" display="flex" flex-direction="column">
+<div align="center" style="display:flex,flex-direction:column">
   <a href="https://github.com/vincent2528/github-readme-stats">
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?vincent2528" frameborder="0"></iframe>  </a>
+    <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vincent2528&hide=C,pug&theme=nightowl&langs_count=8&layout=compact">
+  </a>
   <a href="https://github.com/vincent2528/convoychat">
-    <img align="center" src = "https://github-readme-stats.vercel.app/api?username=vincent2528&theme=algolia&show_icons=true&hide=issues" />
+    <img align="center" src = "https://github-readme-stats.vercel.app/api?username=vincent2528&theme=nightowl&show_icons=true&hide=issues" />
   </a>
 </div>
 
